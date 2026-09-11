@@ -1,21 +1,48 @@
-# Excel Data Cleaning
+# Excel Data Cleaning & Analysis
 
-## Overview
+A practical Excel project completed as part of my learning journey in data analytics.
 
-A practical data cleaning project completed as part of my learning journey in data analytics.
+This repository contains hands-on work focused on data cleaning, data preparation, and data analysis using Microsoft Excel.
 
-The project focused on preparing and organizing a dataset using Microsoft Excel.
+## Projects
 
-## What I Practiced
+### 1. Data Cleaning
+
+The first part of the project focuses on preparing and cleaning datasets.
+
+Skills practiced:
 
 - Data cleaning
 - Identifying and fixing inconsistent data
-- Removing unnecessary spaces using TRIM
-- Extracting text using LEFT, RIGHT, and MID
-- Combining text using CONCATENATE
+- TRIM
+- LEFT
+- RIGHT
+- MID
+- CONCATENATE
+- FIND
 - Find and Replace
 - Working with CSV files
-- Organizing and preparing datasets for analysis
+- Preparing datasets for analysis
+
+### 2. Data Analysis
+
+The second part focuses on analyzing cleaned data and extracting useful insights using Excel.
+
+Skills practiced:
+
+- VLOOKUP
+- SUM
+- PRODUCT
+- COUNTIF
+- SUMIF
+- AVERAGEIF
+- MAXIFS
+- PivotTables
+- PivotCharts
+- Calculated Fields
+- Sorting and organizing data
+- Currency formatting
+- Basic sales and financial analysis
 
 ## Tools
 
@@ -24,17 +51,22 @@ The project focused on preparing and organizing a dataset using Microsoft Excel.
 
 ## Project Process
 
-1. Reviewed the original dataset
+1. Reviewed the original datasets
 2. Identified data quality issues
 3. Cleaned and organized the data
-4. Applied text functions where needed
-5. Checked the cleaned dataset
-6. Prepared the final dataset for further analysis
+4. Applied Excel functions for data preparation
+5. Used lookup and conditional functions for analysis
+6. Created PivotTables and PivotCharts
+7. Calculated and compared key metrics
+8. Reviewed the results and prepared the final analysis
 
-## Before & After
+## Files
 
-The repository includes examples showing the dataset before and after the cleaning process.
+- `Data Cleaning.pdf` — Data cleaning exercises and practical applications
+- `Excel_Data_Cleaning_and_Analysis.pdf` — Extended Excel exercises covering data cleaning and analysis
 
 ## Learning Outcome
 
-This project helped me build practical experience in data cleaning and understand the importance of data quality before performing analysis.
+This project helped me develop practical experience in preparing, cleaning, and analyzing data using Microsoft Excel.
+
+It also helped me understand how clean and well-structured data can support more accurate analysis and better insights.
